@@ -11,7 +11,7 @@ Contains all the url rules and destinations.
 * views.py
 Contains all the methods for displaying the necessary information
 * models.ini
-Contains all the logic and file interaction.
+Contains all the logic and file interaction. File location can be found and configured here.
 * tests.py
 Contains test cases for the models
 
