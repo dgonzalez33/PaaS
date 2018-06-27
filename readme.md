@@ -22,3 +22,4 @@ Contains test cases for the models
 
 ##### Running Instruction
 	python manage.py runserver
+	Run on 127.0.0.1:8000
