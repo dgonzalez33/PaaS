@@ -5,7 +5,6 @@ import json
 def index(request):
     """ Default method for when a url is not matched """
     badRequest("Url not found")
-
 def all_users(request):
     """ Display all users as json. """
     user = User()
